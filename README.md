@@ -61,7 +61,7 @@ __Facts Good to Know Before Start-__
    
 **NOW YOU ARE READY TO COMMIT**
      
-see [my-first-commit](git@github.com:ayulearn/my-first-commit.git) to learn how to commit on git
+see [my-first-commit](https://github.com/ayulearn/my-first-commit) to learn how to commit on git
 
  
 
