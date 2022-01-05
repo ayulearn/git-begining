@@ -1,0 +1,8 @@
+command used:-
+
+git status                                                       # To check git status
+git init                                                         # To initialise git repository
+git config user.name                                             # To check user name
+git config user.email                                            # To check email
+git config user.name "YourName"                                  # configure user name
+git config user.email "youremail@gmail.com"                      # To configure user email
