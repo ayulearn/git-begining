@@ -58,9 +58,10 @@ __Facts Good to Know Before Start-__
      
      ![output](https://github.com/ayulearn/git-practice/blob/main/5.png)
      
-     * NOW YOU ARE READY TO COMMIT *
+   
+**NOW YOU ARE READY TO COMMIT**
      
-     [my first commit](git@github.com:ayulearn/my-first-commit.git)
+see [my-first-commit](git@github.com:ayulearn/my-first-commit.git) to learn how to commit on git
 
  
 
